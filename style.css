@@ -1,0 +1,40 @@
+h1 {
+    font-family: "Noto Serif JP", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+
+ h2 {
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+ }
+
+ h3 {
+    font-family: "Kanit", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+h1 {color: rgb(0, 38, 253);}
+h2 {color: rgb(0, 255, 221);}
+h3 {color: rgb(0, 252, 113);}
+h1 {text-align: center;}
+h2 {text-align: center;}
+h3 {text-align: center;}
+h1 {
+    height: 300px;
+font-size: 300px;
+}
+h2 {height: 300px;
+font-size: 300px
+}
+h3 {height: 300px;
+font-size: 300px;
+}
+
+body {background-color: dimgrey;
+}
+
